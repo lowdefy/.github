@@ -1,6 +1,6 @@
 # Lowdefy 🫶 The Config Webstack for Business Apps
 
-[Lowdefy](https://lowdefy.com/) is an open-source web framework that enables you to:
+[Lowdefy](https://lowdefy.com/) is a source available web framework that enables you to:
 
 - 🎨 Build web UIs and connect to databases and APIs.
 - 🔌 Extend app functionality with npm plugins.
