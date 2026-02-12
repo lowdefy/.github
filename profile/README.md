@@ -34,7 +34,7 @@ Get started
 Visit our https://docs.lowdefy.com/introduction or run:
 
 ```
-npx lowdefy@latest dev
+npx lowdefy@latest init && npx lowdefy@latest dev
 ```
 
 Examples:
