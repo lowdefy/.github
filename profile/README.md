@@ -1,6 +1,6 @@
 # Lowdefy — The Config-First Web Stack for AI and Humans
 
-[Lowdefy](https://lowdefy.com/) is a config-first web framework. Schema-validated, secure by default, and easy to review. Declarative YAML replaces thousands of lines of boilerplate.
+With [Lowdefy](https://lowdefy.com/) you can build web apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language.
 
 #### Why config-first matters in the age of AI
 
