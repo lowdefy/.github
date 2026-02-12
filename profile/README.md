@@ -47,6 +47,8 @@ Examples:
 - https://github.com/lowdefy/lowdefy-example-business-card
 
 ---
+## 🌱 Lowdefy is built and maintained by Resonancy
+
 🚀 Too many apps? https://resonancy.io builds it for you.
 
 Most teams run 10+ business apps that don't talk to each other. https://resonancy.io replaces them with one purpose-built solution on Lowdefy — delivered in days, not months.
